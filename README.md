@@ -1,5 +1,6 @@
 # Power-BI-project
-new repo
+new repository for Data analyst
+
 
 
 
